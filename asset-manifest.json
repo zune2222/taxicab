@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/taxicab/static/css/main.e73ba4a9.chunk.css",
-    "main.js": "/taxicab/static/js/main.eda4f248.chunk.js",
-    "main.js.map": "/taxicab/static/js/main.eda4f248.chunk.js.map",
+    "main.js": "/taxicab/static/js/main.4be348a7.chunk.js",
+    "main.js.map": "/taxicab/static/js/main.4be348a7.chunk.js.map",
     "runtime-main.js": "/taxicab/static/js/runtime-main.9b3e98f9.js",
     "runtime-main.js.map": "/taxicab/static/js/runtime-main.9b3e98f9.js.map",
     "static/css/2.818011ed.chunk.css": "/taxicab/static/css/2.818011ed.chunk.css",
-    "static/js/2.c4a6d7ed.chunk.js": "/taxicab/static/js/2.c4a6d7ed.chunk.js",
-    "static/js/2.c4a6d7ed.chunk.js.map": "/taxicab/static/js/2.c4a6d7ed.chunk.js.map",
+    "static/js/2.199f0b31.chunk.js": "/taxicab/static/js/2.199f0b31.chunk.js",
+    "static/js/2.199f0b31.chunk.js.map": "/taxicab/static/js/2.199f0b31.chunk.js.map",
     "index.html": "/taxicab/index.html",
     "static/css/2.818011ed.chunk.css.map": "/taxicab/static/css/2.818011ed.chunk.css.map",
     "static/css/main.e73ba4a9.chunk.css.map": "/taxicab/static/css/main.e73ba4a9.chunk.css.map",
-    "static/js/2.c4a6d7ed.chunk.js.LICENSE.txt": "/taxicab/static/js/2.c4a6d7ed.chunk.js.LICENSE.txt",
+    "static/js/2.199f0b31.chunk.js.LICENSE.txt": "/taxicab/static/js/2.199f0b31.chunk.js.LICENSE.txt",
     "static/media/collection.74f7f762.png": "/taxicab/static/media/collection.74f7f762.png",
     "static/media/dot.1deab5f1.png": "/taxicab/static/media/dot.1deab5f1.png",
     "static/media/money.70c8b50d.png": "/taxicab/static/media/money.70c8b50d.png",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.9b3e98f9.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.c4a6d7ed.chunk.js",
+    "static/js/2.199f0b31.chunk.js",
     "static/css/main.e73ba4a9.chunk.css",
-    "static/js/main.eda4f248.chunk.js"
+    "static/js/main.4be348a7.chunk.js"
   ]
 }
