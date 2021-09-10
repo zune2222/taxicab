@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/taxicab/static/css/main.e73ba4a9.chunk.css",
-    "main.js": "/taxicab/static/js/main.1b323d5c.chunk.js",
-    "main.js.map": "/taxicab/static/js/main.1b323d5c.chunk.js.map",
+    "main.js": "/taxicab/static/js/main.95a38b01.chunk.js",
+    "main.js.map": "/taxicab/static/js/main.95a38b01.chunk.js.map",
     "runtime-main.js": "/taxicab/static/js/runtime-main.9b3e98f9.js",
     "runtime-main.js.map": "/taxicab/static/js/runtime-main.9b3e98f9.js.map",
     "static/css/2.818011ed.chunk.css": "/taxicab/static/css/2.818011ed.chunk.css",
@@ -29,6 +29,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.199f0b31.chunk.js",
     "static/css/main.e73ba4a9.chunk.css",
-    "static/js/main.1b323d5c.chunk.js"
+    "static/js/main.95a38b01.chunk.js"
   ]
 }
