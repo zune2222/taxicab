@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/taxicab/static/css/main.f6b5dcda.chunk.css",
-    "main.js": "/taxicab/static/js/main.c4b9b3be.chunk.js",
-    "main.js.map": "/taxicab/static/js/main.c4b9b3be.chunk.js.map",
+    "main.css": "/taxicab/static/css/main.e73ba4a9.chunk.css",
+    "main.js": "/taxicab/static/js/main.eda4f248.chunk.js",
+    "main.js.map": "/taxicab/static/js/main.eda4f248.chunk.js.map",
     "runtime-main.js": "/taxicab/static/js/runtime-main.9b3e98f9.js",
     "runtime-main.js.map": "/taxicab/static/js/runtime-main.9b3e98f9.js.map",
     "static/css/2.818011ed.chunk.css": "/taxicab/static/css/2.818011ed.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.c4a6d7ed.chunk.js.map": "/taxicab/static/js/2.c4a6d7ed.chunk.js.map",
     "index.html": "/taxicab/index.html",
     "static/css/2.818011ed.chunk.css.map": "/taxicab/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.f6b5dcda.chunk.css.map": "/taxicab/static/css/main.f6b5dcda.chunk.css.map",
+    "static/css/main.e73ba4a9.chunk.css.map": "/taxicab/static/css/main.e73ba4a9.chunk.css.map",
     "static/js/2.c4a6d7ed.chunk.js.LICENSE.txt": "/taxicab/static/js/2.c4a6d7ed.chunk.js.LICENSE.txt",
     "static/media/collection.74f7f762.png": "/taxicab/static/media/collection.74f7f762.png",
     "static/media/dot.1deab5f1.png": "/taxicab/static/media/dot.1deab5f1.png",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.9b3e98f9.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.c4a6d7ed.chunk.js",
-    "static/css/main.f6b5dcda.chunk.css",
-    "static/js/main.c4b9b3be.chunk.js"
+    "static/css/main.e73ba4a9.chunk.css",
+    "static/js/main.eda4f248.chunk.js"
   ]
 }
