@@ -7,8 +7,8 @@ import signin from "./signIn";
 const App = () => {
   return (
     <div>
-      <Route path="/" exact={true} component={Home} />
-      <Route path="/signup" component={SignUp} />
+      <Route path="/" exact={true} component={SignUp} />
+      <Route path="/home" component={Home} />
       <Route path="/favoriteTaxi" component={favoriteTaxi} />
       <Route path="/signin" component={signin}/>
     </div>

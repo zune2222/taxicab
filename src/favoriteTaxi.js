@@ -22,7 +22,7 @@ function FavoriteTaxi() {
             matching: 1
         })
             .then(function (data) {
-                window.location.href = "/";
+                window.location.href = "/home";
             })
             .catch(function (data) {
                 alert("fail");

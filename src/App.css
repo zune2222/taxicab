@@ -10,6 +10,9 @@
     font-weight: normal;
     font-style: normal;
 }
+.container-fluid{
+    min-width: 375px !important;
+}
 .signupTopImg{
     max-width:93vw;
     width:100vw;
