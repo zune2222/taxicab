@@ -12,13 +12,14 @@ function FavoriteTaxi() {
     const [fav1, setFav1] = useState('');
     const [fav2, setFav2] = useState('');
     const [fav3, setFav3] = useState('');
+    var userIdx=localStorage.getItem("userIdx");
     const send = () => {
-        axios.post('http://3.35.119.12:3000/API/evaluate', {
-            userIdx: 0,
+        axios.post('https://zuun-e.com/API/evaluate', {
+            userIdx: userIdx,
             driverIdx: 0,
-            safe: fav1,
-            talk: fav2,
-            speed: fav3,
+            money: fav3,
+            talk: fav1,
+            speed: fav2,
             matching: 1
         })
             .then(function (data) {

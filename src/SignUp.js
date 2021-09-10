@@ -30,7 +30,7 @@ function SignUp() {
     setUserInfo(e.target.value);
   };
   const send = () => {
-    axios.post('http://3.35.119.12:3000/API/register', {
+    axios.post('https://zuun-e.com/API/register', {
       id: id,
       pwd: pwd,
       name: name,
@@ -39,8 +39,8 @@ function SignUp() {
       type: userInfo
     })
       .then(function (data) {
-        console.log(12345);
-        alert("!234");
+        console.log(data.data[0].userIdx);
+        localStorage.setItem("userIdx", data.data[0].userIdx);
         window.location.href = "/favoriteTaxi";
       })
       .catch(function (data) {
